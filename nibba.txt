@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ss ingolin bulliu zabvdi ahe zati sali kay karav bc
+=======
+ss ingolin bulliu zabvdi ahe zati sali
+shemdi potti
+>>>>>>> 8bceebc1498ad53b9c68d34e64f02fa101422666
